@@ -1,6 +1,6 @@
 # ipv6-CERNET
 
-教育网双栈IPv6 在路由系统openwrt 15.05 下稳定地 实现 ipv6 NAT的方法：
+教育网双栈IPv6 在路由系统 openwrt 15.05 下稳定地 实现 ipv6 NAT 的方法：
 
 （因排版问题，请点击：https://raw.githubusercontent.com/wang20150419/ipv6-CERNET/master/README.md ）
 
